@@ -1,0 +1,19 @@
+# Jyothiesh Business – Company Profile
+
+Jyothiesh Business is a fictional technology company founded in 2024 by Jyothiesh Kasala in Tirupati, Andhra Pradesh.
+
+The company develops digital products and AI-powered solutions for students and small businesses.
+
+Its three main products are:
+
+- JyoDesk: A workspace management platform priced at ₹399 per month.
+- JyoBot: An AI customer support assistant priced at ₹799 per month.
+- JyoDocs: An intelligent document management system priced at ₹599 per month.
+
+The company's internal headquarters code is JTB-204.
+
+During 2025–26, the company generated ₹28.5 lakh in revenue and recorded a net profit of ₹6.2 lakh.
+
+Its long-term goal is to acquire 500 paying business customers by December 2027.
+
+The company's operations manager is Ananya Rao, and its technology lead is Rahul Varma.

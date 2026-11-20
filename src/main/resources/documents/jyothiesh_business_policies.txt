@@ -1,0 +1,21 @@
+# Jyothiesh Business – Internal Policies
+
+The company follows an internal project management system called JTrack.
+
+Every new project receives a unique identification code beginning with JTB.
+
+The company conducts employee performance reviews every 75 days.
+
+Customer support operates between 10 AM and 7 PM, Monday through Saturday.
+
+The JyoBot product has a maximum of 15,000 customer interactions per month under its standard subscription.
+
+The company provides a 12% discount to customers purchasing two or more products together.
+
+All project expenses above ₹35,000 require approval from the operations manager.
+
+The company's internal cloud infrastructure is named JyoCloud.
+
+Database backups are performed every 18 hours.
+
+The company plans to introduce a fourth product called JyoFlow in July 2027, with a proposed subscription price of ₹1,099 per month. The launch has not yet been officially approved.
